@@ -1,1 +1,1 @@
-# Chuch Monitoring
+# Church Monitoring
